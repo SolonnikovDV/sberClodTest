@@ -500,7 +500,7 @@ CREATE TABLE S_s2_prodSpec (
 );
 ```
 
-<img src="/Users/dmitrysolonnikov/PycharmProjects/sberClodTest/task_5/DataVault_model.png">
+<img src="https://github.com/SolonnikovDV/sberClodTest/blob/master/task_5/DataVault_model.png">
 
 
 ### Anchor Model
@@ -531,4 +531,4 @@ CREATE TABLE l_f2_buys (
 ```
 <br>
 
-<img src="/Users/dmitrysolonnikov/PycharmProjects/sberClodTest/task_5/DataVault_Anchor_model.png">
+<img src="https://github.com/SolonnikovDV/sberClodTest/blob/master/task_5/DataVault_Anchor_model.png">
